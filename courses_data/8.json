@@ -1,0 +1,178 @@
+[
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Алгебра",
+    "subject_id": 33,
+    "teacher_fullname_shorten": "Мильштейн М. С.",
+    "teacher_id": 864
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Алгебра",
+    "subject_id": 33,
+    "teacher_fullname_shorten": "Пименова Л. В.",
+    "teacher_id": 1189
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Алгоритмика и основы программирования",
+    "subject_id": 30,
+    "teacher_fullname_shorten": "Ломакина М. В.",
+    "teacher_id": 566
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Алгоритмика и основы программирования",
+    "subject_id": 30,
+    "teacher_fullname_shorten": "Чернышева Т. Л.",
+    "teacher_id": 1025
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Английский язык",
+    "subject_id": 31,
+    "teacher_fullname_shorten": "Раковская А. Б.",
+    "teacher_id": 1170
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Биология",
+    "subject_id": 19,
+    "teacher_fullname_shorten": "Миклин Н. А.",
+    "teacher_id": 1397
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "География",
+    "subject_id": 20,
+    "teacher_fullname_shorten": "Семененко Е. С.",
+    "teacher_id": 421
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Геометрия",
+    "subject_id": 25,
+    "teacher_fullname_shorten": "Ерганжиева Л. Н.",
+    "teacher_id": 1068
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "История",
+    "subject_id": 22,
+    "teacher_fullname_shorten": "Аксеничев О. А.",
+    "teacher_id": 495
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "История",
+    "subject_id": 22,
+    "teacher_fullname_shorten": "Овчинникова Н. Г.",
+    "teacher_id": 734
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Литература",
+    "subject_id": 16,
+    "teacher_fullname_shorten": "Гапонова Я. А.",
+    "teacher_id": 1172
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Литература",
+    "subject_id": 16,
+    "teacher_fullname_shorten": "Леготина Т. Д.",
+    "teacher_id": 717
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Обществознание",
+    "subject_id": 23,
+    "teacher_fullname_shorten": "Аксеничев О. А.",
+    "teacher_id": 495
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Обществознание",
+    "subject_id": 23,
+    "teacher_fullname_shorten": "Овчинникова Н. Г.",
+    "teacher_id": 734
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Основы проектной работы",
+    "subject_id": 29,
+    "teacher_fullname_shorten": "Гришина П. А.",
+    "teacher_id": 355
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Основы проектной работы",
+    "subject_id": 29,
+    "teacher_fullname_shorten": "Морозова И. В.",
+    "teacher_id": 1399
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Основы проектной работы",
+    "subject_id": 29,
+    "teacher_fullname_shorten": "Уфимцев М. К.",
+    "teacher_id": 1072
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Русский язык",
+    "subject_id": 14,
+    "teacher_fullname_shorten": "Гапонова Я. А.",
+    "teacher_id": 1172
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Русский язык",
+    "subject_id": 14,
+    "teacher_fullname_shorten": "Леготина Т. Д.",
+    "teacher_id": 717
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Физика",
+    "subject_id": 18,
+    "teacher_fullname_shorten": "Уфимцев М. К.",
+    "teacher_id": 1072
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Химия",
+    "subject_id": 17,
+    "teacher_fullname_shorten": "Широков Д. В.",
+    "teacher_id": 20
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 8,
+    "subject": "Химия",
+    "subject_id": 17,
+    "teacher_fullname_shorten": "Шмелёва М. В.",
+    "teacher_id": 1204
+  }
+]

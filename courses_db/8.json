@@ -1,0 +1,180 @@
+{
+  "_default": {
+    "1": {
+      "study_year": "2017\u20132018",
+      "subject_id": 33,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u041c\u0438\u043b\u044c\u0448\u0442\u0435\u0439\u043d \u041c. \u0421.",
+      "teacher_id": 864,
+      "subject": "\u0410\u043b\u0433\u0435\u0431\u0440\u0430"
+    },
+    "2": {
+      "study_year": "2017\u20132018",
+      "subject_id": 33,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u041f\u0438\u043c\u0435\u043d\u043e\u0432\u0430 \u041b. \u0412.",
+      "teacher_id": 1189,
+      "subject": "\u0410\u043b\u0433\u0435\u0431\u0440\u0430"
+    },
+    "3": {
+      "study_year": "2017\u20132018",
+      "subject_id": 30,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u041b\u043e\u043c\u0430\u043a\u0438\u043d\u0430 \u041c. \u0412.",
+      "teacher_id": 566,
+      "subject": "\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u0438\u043a\u0430 \u0438 \u043e\u0441\u043d\u043e\u0432\u044b \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f"
+    },
+    "4": {
+      "study_year": "2017\u20132018",
+      "subject_id": 30,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0427\u0435\u0440\u043d\u044b\u0448\u0435\u0432\u0430 \u0422. \u041b.",
+      "teacher_id": 1025,
+      "subject": "\u0410\u043b\u0433\u043e\u0440\u0438\u0442\u043c\u0438\u043a\u0430 \u0438 \u043e\u0441\u043d\u043e\u0432\u044b \u043f\u0440\u043e\u0433\u0440\u0430\u043c\u043c\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f"
+    },
+    "5": {
+      "study_year": "2017\u20132018",
+      "subject_id": 31,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0420\u0430\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u0410. \u0411.",
+      "teacher_id": 1170,
+      "subject": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a"
+    },
+    "6": {
+      "study_year": "2017\u20132018",
+      "subject_id": 19,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u041c\u0438\u043a\u043b\u0438\u043d \u041d. \u0410.",
+      "teacher_id": 1397,
+      "subject": "\u0411\u0438\u043e\u043b\u043e\u0433\u0438\u044f"
+    },
+    "7": {
+      "study_year": "2017\u20132018",
+      "subject_id": 20,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0421\u0435\u043c\u0435\u043d\u0435\u043d\u043a\u043e \u0415. \u0421.",
+      "teacher_id": 421,
+      "subject": "\u0413\u0435\u043e\u0433\u0440\u0430\u0444\u0438\u044f"
+    },
+    "8": {
+      "study_year": "2017\u20132018",
+      "subject_id": 25,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0415\u0440\u0433\u0430\u043d\u0436\u0438\u0435\u0432\u0430 \u041b. \u041d.",
+      "teacher_id": 1068,
+      "subject": "\u0413\u0435\u043e\u043c\u0435\u0442\u0440\u0438\u044f"
+    },
+    "9": {
+      "study_year": "2017\u20132018",
+      "subject_id": 22,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0410\u043a\u0441\u0435\u043d\u0438\u0447\u0435\u0432 \u041e. \u0410.",
+      "teacher_id": 495,
+      "subject": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f"
+    },
+    "10": {
+      "study_year": "2017\u20132018",
+      "subject_id": 22,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u041e\u0432\u0447\u0438\u043d\u043d\u0438\u043a\u043e\u0432\u0430 \u041d. \u0413.",
+      "teacher_id": 734,
+      "subject": "\u0418\u0441\u0442\u043e\u0440\u0438\u044f"
+    },
+    "11": {
+      "study_year": "2017\u20132018",
+      "subject_id": 16,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0413\u0430\u043f\u043e\u043d\u043e\u0432\u0430 \u042f. \u0410.",
+      "teacher_id": 1172,
+      "subject": "\u041b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430"
+    },
+    "12": {
+      "study_year": "2017\u20132018",
+      "subject_id": 16,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u041b\u0435\u0433\u043e\u0442\u0438\u043d\u0430 \u0422. \u0414.",
+      "teacher_id": 717,
+      "subject": "\u041b\u0438\u0442\u0435\u0440\u0430\u0442\u0443\u0440\u0430"
+    },
+    "13": {
+      "study_year": "2017\u20132018",
+      "subject_id": 23,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0410\u043a\u0441\u0435\u043d\u0438\u0447\u0435\u0432 \u041e. \u0410.",
+      "teacher_id": 495,
+      "subject": "\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e\u0437\u043d\u0430\u043d\u0438\u0435"
+    },
+    "14": {
+      "study_year": "2017\u20132018",
+      "subject_id": 23,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u041e\u0432\u0447\u0438\u043d\u043d\u0438\u043a\u043e\u0432\u0430 \u041d. \u0413.",
+      "teacher_id": 734,
+      "subject": "\u041e\u0431\u0449\u0435\u0441\u0442\u0432\u043e\u0437\u043d\u0430\u043d\u0438\u0435"
+    },
+    "15": {
+      "study_year": "2017\u20132018",
+      "subject_id": 29,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0413\u0440\u0438\u0448\u0438\u043d\u0430 \u041f. \u0410.",
+      "teacher_id": 355,
+      "subject": "\u041e\u0441\u043d\u043e\u0432\u044b \u043f\u0440\u043e\u0435\u043a\u0442\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b"
+    },
+    "16": {
+      "study_year": "2017\u20132018",
+      "subject_id": 29,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u041c\u043e\u0440\u043e\u0437\u043e\u0432\u0430 \u0418. \u0412.",
+      "teacher_id": 1399,
+      "subject": "\u041e\u0441\u043d\u043e\u0432\u044b \u043f\u0440\u043e\u0435\u043a\u0442\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b"
+    },
+    "17": {
+      "study_year": "2017\u20132018",
+      "subject_id": 29,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0423\u0444\u0438\u043c\u0446\u0435\u0432 \u041c. \u041a.",
+      "teacher_id": 1072,
+      "subject": "\u041e\u0441\u043d\u043e\u0432\u044b \u043f\u0440\u043e\u0435\u043a\u0442\u043d\u043e\u0439 \u0440\u0430\u0431\u043e\u0442\u044b"
+    },
+    "18": {
+      "study_year": "2017\u20132018",
+      "subject_id": 14,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0413\u0430\u043f\u043e\u043d\u043e\u0432\u0430 \u042f. \u0410.",
+      "teacher_id": 1172,
+      "subject": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a"
+    },
+    "19": {
+      "study_year": "2017\u20132018",
+      "subject_id": 14,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u041b\u0435\u0433\u043e\u0442\u0438\u043d\u0430 \u0422. \u0414.",
+      "teacher_id": 717,
+      "subject": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \u044f\u0437\u044b\u043a"
+    },
+    "20": {
+      "study_year": "2017\u20132018",
+      "subject_id": 18,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0423\u0444\u0438\u043c\u0446\u0435\u0432 \u041c. \u041a.",
+      "teacher_id": 1072,
+      "subject": "\u0424\u0438\u0437\u0438\u043a\u0430"
+    },
+    "21": {
+      "study_year": "2017\u20132018",
+      "subject_id": 17,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0428\u0438\u0440\u043e\u043a\u043e\u0432 \u0414. \u0412.",
+      "teacher_id": 20,
+      "subject": "\u0425\u0438\u043c\u0438\u044f"
+    },
+    "22": {
+      "study_year": "2017\u20132018",
+      "subject_id": 17,
+      "study_grade": 8,
+      "teacher_fullname_shorten": "\u0428\u043c\u0435\u043b\u0451\u0432\u0430 \u041c. \u0412.",
+      "teacher_id": 1204,
+      "subject": "\u0425\u0438\u043c\u0438\u044f"
+    }
+  }
+}

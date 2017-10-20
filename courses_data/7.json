@@ -1,0 +1,226 @@
+[
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Алгебра",
+    "subject_id": 33,
+    "teacher_fullname_shorten": "Ардаширова Е. В.",
+    "teacher_id": 860
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Алгебра",
+    "subject_id": 33,
+    "teacher_fullname_shorten": "Мильштейн М. С.",
+    "teacher_id": 864
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Алгебра",
+    "subject_id": 33,
+    "teacher_fullname_shorten": "Солдатова А. В.",
+    "teacher_id": 1408
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Английский язык",
+    "subject_id": 31,
+    "teacher_fullname_shorten": "Давлятова И. Б.",
+    "teacher_id": 1148
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Английский язык",
+    "subject_id": 31,
+    "teacher_fullname_shorten": "Феденко Е. С.",
+    "teacher_id": 1162
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Биология",
+    "subject_id": 19,
+    "teacher_fullname_shorten": "Батурина И. Г.",
+    "teacher_id": 1205
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Визуальное программирование",
+    "subject_id": 24,
+    "teacher_fullname_shorten": "Платонова Н. С.",
+    "teacher_id": 931
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Визуальное программирование",
+    "subject_id": 24,
+    "teacher_fullname_shorten": "Сергеев И. А.",
+    "teacher_id": 1240
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Визуальное программирование",
+    "subject_id": 24,
+    "teacher_fullname_shorten": "Терёхина А. О.",
+    "teacher_id": 457
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "География",
+    "subject_id": 20,
+    "teacher_fullname_shorten": "Голованова Е. С.",
+    "teacher_id": 385
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Геометрия",
+    "subject_id": 25,
+    "teacher_fullname_shorten": "Ерганжиева Л. Н.",
+    "teacher_id": 1068
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Геометрия",
+    "subject_id": 25,
+    "teacher_fullname_shorten": "Золкина И. А.",
+    "teacher_id": 1200
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Изобразительное искусство",
+    "subject_id": 41,
+    "teacher_fullname_shorten": "Никулина А. Д.",
+    "teacher_id": 1313
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Информатика",
+    "subject_id": 32,
+    "teacher_fullname_shorten": "Гиглавый А. В.",
+    "teacher_id": 34
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Информатика",
+    "subject_id": 32,
+    "teacher_fullname_shorten": "Гусельникова Т. Н.",
+    "teacher_id": 1358
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Информатика",
+    "subject_id": 32,
+    "teacher_fullname_shorten": "Ломакина М. В.",
+    "teacher_id": 566
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Информатика",
+    "subject_id": 32,
+    "teacher_fullname_shorten": "Сергеев И. А.",
+    "teacher_id": 1240
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "История",
+    "subject_id": 22,
+    "teacher_fullname_shorten": "Кузнецова И. К.",
+    "teacher_id": 1161
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Литература",
+    "subject_id": 16,
+    "teacher_fullname_shorten": "Канищева А. С.",
+    "teacher_id": 1157
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Литература",
+    "subject_id": 16,
+    "teacher_fullname_shorten": "Пазухина К. И.",
+    "teacher_id": 1417
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Литература",
+    "subject_id": 16,
+    "teacher_fullname_shorten": "Яковлева Т. И.",
+    "teacher_id": 1518
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Музыка",
+    "subject_id": 34,
+    "teacher_fullname_shorten": "Белоусова А. В.",
+    "teacher_id": 720
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Обществознание",
+    "subject_id": 23,
+    "teacher_fullname_shorten": "Кузнецова И. К.",
+    "teacher_id": 1161
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Русский язык",
+    "subject_id": 14,
+    "teacher_fullname_shorten": "Канищева А. С.",
+    "teacher_id": 1157
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Русский язык",
+    "subject_id": 14,
+    "teacher_fullname_shorten": "Пазухина К. И.",
+    "teacher_id": 1417
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Русский язык",
+    "subject_id": 14,
+    "teacher_fullname_shorten": "Яковлева Т. И.",
+    "teacher_id": 1518
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Физика",
+    "subject_id": 18,
+    "teacher_fullname_shorten": "Дубинец Т. В.",
+    "teacher_id": 808
+  },
+  {
+    "study_year": "2017–2018",
+    "study_grade": 7,
+    "subject": "Физика",
+    "subject_id": 18,
+    "teacher_fullname_shorten": "Ерещенко Е. В.",
+    "teacher_id": 1138
+  }
+]
