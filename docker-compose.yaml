@@ -1,0 +1,11 @@
+version: "3.3"
+
+services:
+
+    litbot:
+        container_name: litbot
+        build: .
+        image: litbot:latest
+        restart: always
+        ports:
+            - 10080:8080
