@@ -87,11 +87,16 @@ class DayTable:
 
     def __init__(self,  weekday):
         self._weekday = self.days_names[weekday]
+        self._weekday_index = weekday
         self._subjects = []
 
     @property
     def weekday(self):
         return self._weekday
+
+    @property
+    def weekday_index(self):
+        return self._weekday_index
 
     @property
     def subjects(self):
